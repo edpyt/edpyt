@@ -1,11 +1,13 @@
 ## Hi 👋
 
-### I am a web developer who wants to become better 🎯
+### I'm a Web developer⚡
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edpyt&layout=compact)](https://github.com/edpyt/github-readme-stats)
 
 [![Edpyt's GitHub stats](https://github-readme-stats.vercel.app/api?username=edpyt)](https://github.com/edpyt/github-readme-stats)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
