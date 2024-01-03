@@ -13,6 +13,15 @@
 </div>
 
 <!--START_SECTION:waka-->
+
+```txt
+Python       22 hrs 27 mins  █████████████░░░░░░░░░░░░   52.45 %
+Vue.js       12 hrs 53 mins  ███████▓░░░░░░░░░░░░░░░░░   30.11 %
+TypeScript   3 hrs 12 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
+Markdown     2 hrs 2 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
+YAML         1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+```
+
 <!--END_SECTION:waka-->
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
