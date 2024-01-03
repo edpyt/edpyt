@@ -31,6 +31,7 @@
 <div align="center">
     <img alt="vue" src="assets/frontend/vue.svg" width="60" height="60"/>
     <img alt="vuetify" src="assets/frontend/vuetify.svg" width="70" height="70"/>
+    <img alt="pinia" src="assets/frontend/pinia.svg" width="60" height="60"/>
     <img alt="bootstrap" src="assets/frontend/bootstrap.svg" width="60" height="60"/>
     <img alt="chartjs" src="assets/frontend/chartjs.svg" width="60" height="60"/>
     
