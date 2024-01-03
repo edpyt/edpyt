@@ -2,9 +2,15 @@
 
 ### I'm a Web developer⚡
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edpyt&layout=compact)](https://github.com/edpyt/github-readme-stats)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edpyt&layout=compact&hide_border=true&theme=nord&border_radius=20" height="170"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=edpyt&hide_border=true&theme=nord&border_radius=20" height="170"/>
+</div>
 
-[![Edpyt's GitHub stats](https://github-readme-stats.vercel.app/api?username=edpyt)](https://github.com/edpyt/github-readme-stats)
+<div align="center">
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=edpyt&theme=nord&border_radius=20&card_width=707&hide_border=true)](https://git.io/streak-stats)
+</div>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -55,17 +61,3 @@
     <img alt="iusearchbtw" src="assets/stack/arch.svg" width="60" height="60"/>
     <img alt="vscode" src="assets/stack/vscode.svg" width="60" height="60"/>
 </div>
-
-
-
-<!-- <div align="center">
-    <img alt="python" src="assets/backend/python-original.svg" width="60" height="60"/>
-    <img alt="fastapi" src="assets/technologies/backend/fastapi-1.svg" width="55" height="55"/>
-    <img src="assets/technologies/backend/django.svg" alt="django" width="50" height="50"/> 
-    <img src="assets/technologies/backend/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>
-    <img src="assets/technologies/backend/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/>   
-    <img src="assets/technologies/backend/redis-original-wordmark.svg" alt="redis" width="60" height="60"/>
-    <img src="assets/technologies/backend/nginx-original.svg" alt="nginx" width="60" height="60"/>
-    <img src="assets/technologies/backend/aiohttp-plain.svg" alt="aiohttp" width="60" height="60">
-    <img src="assets/technologies/backend/SQLAlchemy.svg" alt="sqlalchemy" width="60" height="60">
-</div> -->
