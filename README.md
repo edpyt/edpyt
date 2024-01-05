@@ -1,7 +1,5 @@
 ## Hi 👋
 
-### I'm a Web developer⚡
-
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edpyt&layout=compact&hide_border=true&theme=nord&border_radius=20" height="170"/>
     <img src="https://github-readme-stats.vercel.app/api?username=edpyt&hide_border=true&theme=nord&border_radius=20" height="170"/>
