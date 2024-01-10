@@ -1,10 +1,5 @@
 ## Hi 👋
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=edpyt&hide_border=true&theme=nord&border_radius=20&card_width=707" height="170" width="707"/>
-</div>
-
-
 <!--START_SECTION:waka-->
 
 ```txt
@@ -16,6 +11,12 @@ XML          17 mins         ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=edpyt&hide_border=false&theme=nord&border_radius=0&card_width=1000" height="170" width="1000"/>
+</div>
+
+[![Edpyt`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edpyt&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
