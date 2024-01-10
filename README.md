@@ -1,23 +1,18 @@
 ## Hi 👋
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edpyt&layout=compact&hide_border=true&theme=nord&border_radius=20" height="170"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=edpyt&hide_border=true&theme=nord&border_radius=20" height="170"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=edpyt&hide_border=true&theme=nord&border_radius=20&card_width=707" height="170" width="707"/>
 </div>
 
-<div align="center">
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=edpyt&theme=nord&border_radius=20&card_width=707&hide_border=true)](https://git.io/streak-stats)
-</div>
 
 <!--START_SECTION:waka-->
 
 ```txt
-Python       33 hrs 3 mins   ██████████████████████▒░░   89.06 %
-Markdown     2 hrs 4 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
-YAML         1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-XML          12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-Makefile     10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Python       22 hrs 5 mins   ██████████████░░░░░░░░░░░   56.47 %
+Vue.js       10 hrs 27 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.76 %
+TypeScript   3 hrs 14 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
+Markdown     2 hrs 28 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
+XML          17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
@@ -68,3 +63,6 @@ Makefile     10 mins         ░░░░░░░░░░░░░░░░░
     <img alt="iusearchbtw" src="assets/stack/arch.svg" width="60" height="60"/>
     <img alt="vscode" src="assets/stack/vscode.svg" width="60" height="60"/>
 </div>
+
+<p align="center">
+<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
