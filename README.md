@@ -54,7 +54,6 @@ JSON         23 mins         ▒░░░░░░░░░░░░░░░░
 <div align="center">
     <img alt="nginx" src="assets/devops/nginx.svg" width="60" height="60"/>
     <img alt="docker" src="assets/devops/docker.svg" width="60" height="60"/>
-    <img alt="jenkins" src="assets/devops/jenkins.svg" height="60"/>
     <img alt="githubactions" src="assets/devops/actions.svg" width="60" height="60"/>
 </div>
 
