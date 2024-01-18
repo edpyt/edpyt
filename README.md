@@ -2,6 +2,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=edpyt&hide_border=false&theme=nord&border_radius=0&card_width=1000" height="170" width="1000"/>
 </div>
 
+[![wakatime](https://wakatime.com/badge/user/1770871d-539e-4acc-85db-976dae244f9c.svg)](https://wakatime.com/@1770871d-539e-4acc-85db-976dae244f9c)
+
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 
