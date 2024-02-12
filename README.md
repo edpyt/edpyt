@@ -11,6 +11,7 @@ Currently I find myself interesting in web with this stack:
 
 <div>
     <img alt="python" src="assets/backend/python-original.svg" width="45" height="45"/>
+    <img alt="litestar" src="assets/backend/litestar.svg" width="45" height="45"/>
     <img alt="fastapi" src="assets/backend/fastapi.svg" width="45" height="45"/>
     <img alt="django" src="assets/backend/django.svg" width="45" height="45"/>
     <img alt="sqlalchemy" src="assets/backend/sqlalchemy.svg" width="45" height="45"/>
@@ -18,8 +19,6 @@ Currently I find myself interesting in web with this stack:
     <img alt="celery" src="assets/backend/celery.svg" width="45" height="45"/>
     <img alt="redis" src="assets/backend/redis.svg" width="45" height="45"/>
     <img alt="rabbitmq" src="assets/backend/rabbitmq.svg" width="45" height="45"/>
-    <img alt="aiohttp" src="assets/backend/aiohttp.svg" width="45" height="45"/>
-    <img alt="starlette" src="assets/backend/starlette.svg" width="45" height="45"/>
     <img alt="docker" src="assets/devops/docker.svg" width="45" height="45"/>
 </div>
 
