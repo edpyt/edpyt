@@ -10,9 +10,9 @@ Currently I find myself interesting in web with this stack:
 
 <div>
     <img alt="python" src="assets/backend/python-original.svg" width="45" height="45"/>
-    <img alt="fastapi" src="assets/backend/fastapi.svg" width="45" height="45"/>
+<!--     <img alt="fastapi" src="assets/backend/fastapi.svg" width="45" height="45"/>
     <img alt="blacksheep" src="assets/backend/blacksheep.svg" width="45" height="45"/>
-    <img alt="litestar" src="assets/backend/litestar.svg" width="45" height="45"/>
+    <img alt="litestar" src="assets/backend/litestar.svg" width="45" height="45"/> -->
     <img alt="sqlalchemy" src="assets/backend/sqlalchemy.svg" width="45" height="45"/>
     <img alt="postgresql" src="assets/backend/postgresql.svg" width="45" height="45"/>
     <img alt="celery" src="assets/backend/celery.svg" width="45" height="45"/>
