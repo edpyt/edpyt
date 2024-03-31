@@ -26,8 +26,7 @@ Frontend:
 <div>
     <img alt="vue" src="assets/frontend/vue.svg" width="45" height="45"/>
     <img alt="pinia" src="assets/frontend/pinia.svg" width="45" height="45"/>
-    <img alt="bootstrap" src="assets/frontend/bootstrap.svg" width="45" height="45"/>
-    <img alt="tailwind" src="assets/frontend/tailwind.svg" width="45" height="45"/>
+
 </div>
 
 
