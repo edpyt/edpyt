@@ -1,5 +1,3 @@
-Currently I find myself interesting in web with this stack:
-
 <div>
     <img alt="python" src="assets/backend/python-original.svg" width="45" height="45"/>
 <!--     <img alt="fastapi" src="assets/backend/fastapi.svg" width="45" height="45"/>
@@ -9,19 +7,8 @@ Currently I find myself interesting in web with this stack:
     <img alt="postgresql" src="assets/backend/postgresql.svg" width="45" height="45"/>
     <img alt="rabbitmq" src="assets/backend/rabbitmq.svg" width="45" height="45"/>
     <img alt="docker" src="assets/devops/docker.svg" width="45" height="45"/>
-</div>
-
-Frontend:
-
-<div>
     <img alt="vue" src="assets/frontend/vue.svg" width="45" height="45"/>
     <img alt="pinia" src="assets/frontend/pinia.svg" width="45" height="45"/>
-</div>
-
-
-My conf:
-
-<div style="padding: 0 0 15px">
     <img alt="iusearchbtw" src="assets/stack/arch.svg" width="45" height="45"/>
     <img alt="vscode" src="assets/stack/vscode.svg" width="45" height="45"/>
 </div>
