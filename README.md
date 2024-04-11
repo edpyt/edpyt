@@ -1,11 +1,3 @@
-<!-- <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=edpyt&hide_border=false&theme=nord&border_radius=0&card_width=500" height="170"/>
-</div> -->
-
-
-<!-- ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1) -->
-
-
 Currently I find myself interesting in web with this stack:
 
 <div>
@@ -15,8 +7,6 @@ Currently I find myself interesting in web with this stack:
     <img alt="litestar" src="assets/backend/litestar.svg" width="45" height="45"/> -->
     <img alt="sqlalchemy" src="assets/backend/sqlalchemy.svg" width="45" height="45"/>
     <img alt="postgresql" src="assets/backend/postgresql.svg" width="45" height="45"/>
-    <img alt="celery" src="assets/backend/celery.svg" width="45" height="45"/>
-    <img alt="redis" src="assets/backend/redis.svg" width="45" height="45"/>
     <img alt="rabbitmq" src="assets/backend/rabbitmq.svg" width="45" height="45"/>
     <img alt="docker" src="assets/devops/docker.svg" width="45" height="45"/>
 </div>
@@ -26,7 +16,6 @@ Frontend:
 <div>
     <img alt="vue" src="assets/frontend/vue.svg" width="45" height="45"/>
     <img alt="pinia" src="assets/frontend/pinia.svg" width="45" height="45"/>
-
 </div>
 
 
