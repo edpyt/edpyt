@@ -1,5 +1,8 @@
-WM: Hyprland \
-Code Editor: nvim \
-OS: Arch Linux
+Shell: [starship](https://starship.rs) \
+Terminal: [kitty](https://sw.kovidgoyal.net/kitty/) + [zellij](https://zellij.dev) \
+WM: [Hyprland](https://hyprland.org) \
+Code Editor: [astronvim](https://astronvim.com) \
+Browser: [vivaldi](https://vivaldi.com) \
+OS: [Arch Linux](https://archlinux.org)
 
 [![wakatime](https://wakatime.com/badge/user/1770871d-539e-4acc-85db-976dae244f9c.svg)](https://wakatime.com/@1770871d-539e-4acc-85db-976dae244f9c)
