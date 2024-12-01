@@ -1,7 +1,7 @@
 Shell: [starship](https://starship.rs) \
 Terminal: [kitty](https://sw.kovidgoyal.net/kitty/) + [zellij](https://zellij.dev) \
 WM: [Hyprland](https://hyprland.org) \
-Code Editor: [astronvim](https://astronvim.com) \
+Code Editor: [astronvim](https://astronvim.com) / [Zed](https://zed.dev) \
 Browser: [vivaldi](https://vivaldi.com) \
 OS: [EndeavourOS](https://endeavouros.com)
 
