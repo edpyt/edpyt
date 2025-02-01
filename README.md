@@ -1,5 +1,5 @@
 Shell: [starship](https://starship.rs) \
-Terminal: [kitty](https://sw.kovidgoyal.net/kitty/) + [zellij](https://zellij.dev) \
+Terminal: [kitty](https://sw.kovidgoyal.net/kitty/) \
 WM: [Hyprland](https://hyprland.org) \
 Code Editor: [astronvim](https://astronvim.com) \
 Browser: [zen](https://zen-browser.app/) \
