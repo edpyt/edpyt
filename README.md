@@ -1,4 +1,3 @@
-Shell: [starship](https://starship.rs) \
 Terminal: [kitty](https://sw.kovidgoyal.net/kitty/) \
 WM: [niri](https://github.com/YaLTeR/niri) \
 Code Editor: [astronvim](https://astronvim.com) \
