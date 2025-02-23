@@ -1,6 +1,6 @@
 Shell: [starship](https://starship.rs) \
 Terminal: [kitty](https://sw.kovidgoyal.net/kitty/) \
-WM: [Hyprland](https://hyprland.org) \
+WM: [niri](https://github.com/YaLTeR/niri) \
 Code Editor: [astronvim](https://astronvim.com) \
 Browser: [zen](https://zen-browser.app/) \
 OS: [EndeavourOS](https://endeavouros.com)
